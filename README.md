@@ -1,4 +1,4 @@
-# LGMVIP-DataScience-Task-3
+
 
 1 Read the input image as gray scale image
 
